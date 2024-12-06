@@ -1,0 +1,21 @@
+﻿PersediaanID,NamaProduk,JumlahTersedia,LokasiGudang,TanggalUpdate
+S001,Widget A,200,Gudang 1,2024-01-05
+S002,Widget B,150,Gudang 2,2024-01-08
+S003,Widget C,300,Gudang 1,2024-01-11
+S004,Widget D,250,Gudang 2,2024-01-14
+S005,Widget E,350,Gudang 1,2024-01-17
+S006,Widget F,180,Gudang 2,2024-01-20
+S007,Widget G,170,Gudang 1,2024-01-23
+S008,Widget H,290,Gudang 2,2024-01-26
+S009,Widget I,360,Gudang 1,2024-01-29
+S010,Widget J,150,Gudang 2,2024-02-01
+S011,Widget K,290,Gudang 1,2024-02-04
+S012,Widget L,310,Gudang 2,2024-02-07
+S013,Widget M,340,Gudang 1,2024-02-10
+S014,Widget N,330,Gudang 2,2024-02-13
+S015,Widget O,280,Gudang 1,2024-02-16
+S016,Widget P,350,Gudang 2,2024-02-19
+S017,Widget Q,320,Gudang 1,2024-02-22
+S018,Widget R,260,Gudang 2,2024-02-25
+S019,Widget S,300,Gudang 1,2024-02-28
+S020,Widget T,280,Gudang 2,2024-03-02
